@@ -13,6 +13,8 @@
                     "Global Digital Elevation Map",
                     "Land Surface Reflectance",
                     "Land Surface Temperature",
+                    "DHR Reflectance",
+                    "Radiance",
                     "Soil Moisture",
                     "Soil Temperature",
                     "Vegetation Indices"

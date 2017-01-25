@@ -1,0 +1,30 @@
+{
+    "measurements": {
+        "Aerosol Albedo": {
+            "id": "aerosol-albedo",
+            "title":    "Aerosol Albedo",
+            "subtitle": "Aura/OMI",
+            "sources": {
+                "Aura/OMI": {
+                    "id": "aura-omi",
+                    "title": "Aura/OMI",
+                    "description": "omi/Aerosol",
+                    "image": "",
+                    "settings": [
+                        "OMI_Single_Scattering_Albedo",
+                        "Aura_Orbit_Asc"
+                    ]
+                },
+                "Terra/MISR": {
+                    "id": "terra-misr",
+                    "title": "Terra/MISR",
+                    "description": "misr/Aerosol",
+                    "image": "",
+                    "settings": [
+                        "MISR_Aerosol_Optical_Depth_Avg_Green_Monthly"
+                    ]
+                }
+            }
+        }
+    }
+}

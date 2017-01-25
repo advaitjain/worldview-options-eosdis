@@ -3,7 +3,7 @@
         "Vegetation Indices": {
             "id": "vegetation-indices",
             "title":    "Vegetation Indices",
-            "subtitle": "Terra / MODIS",
+            "subtitle": "Terra / MODIS, Terra / MISR",
             "sources": {
                 "Terra/MODIS": {
                     "id": "terra-modis",
@@ -13,6 +13,15 @@
                     "settings": [
                         "MODIS_Terra_NDVI_8Day",
                         "MODIS_Terra_EVI_8Day"
+                    ]
+                },
+                "Terra/MISR": {
+                    "id": "terra-misr",
+                    "title": "Terra / MISR",
+                    "description": "misr/ndvi",
+                    "image": "",
+                    "settings": [
+                        "MISR_Land_NDVI_Average_Monthly"
                     ]
                 }
             }

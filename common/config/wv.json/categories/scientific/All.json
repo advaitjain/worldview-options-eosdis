@@ -7,6 +7,7 @@
                 "placement": "first",
                 "description": "",
                 "measurements": [
+                  "Aerosol Albedo",
                   "Aerosol Optical Depth",
                   "Areas of No Data (mask)",
                   "Blue Marble",
@@ -26,6 +27,7 @@
                   "Corrected Reflectance",
                   "Cyclone Hazard",
                   "Dams",
+                  "DHR Reflectance",
                   "Drought Hazard",
                   "Dust Score",
                   "Earth at Night",
@@ -51,6 +53,7 @@
                   "Power Plants, Nuclear",
                   "Precipitation Estimate",
                   "Precipitation Rate",
+                  "Radiance",
                   "Relative Humidity",
                   "Reference Map",
                   "Reservoirs",

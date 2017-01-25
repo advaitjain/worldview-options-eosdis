@@ -55,6 +55,15 @@
                     "settings": [
                         "MODIS_Combined_Value_Added_AOD"
                     ]
+                },
+                "Terra/MISR": {
+                    "id": "terra-misr",
+                    "title": "Terra/MISR",
+                    "description": "misr/Aerosol",
+                    "image": "",
+                    "settings": [
+                        "MISR_Aerosol_Optical_Depth_Avg_Green_Monthly"
+                    ]
                 }
             }
         }

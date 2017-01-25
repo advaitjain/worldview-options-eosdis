@@ -7,6 +7,7 @@
                 "image": "atmosphere.jpg",
                 "description": "",
                 "measurements": [
+                    "Aerosol Albedo",
                     "Aerosol Optical Depth",
                     "Carbon Monoxide",
                     "Cloud Effective Radius",
@@ -24,7 +25,7 @@
                     "Nitrous Oxide",
                     "Ozone",
                     "Precipitation Estimate",
-		                "Precipitation Rate",  
+		                "Precipitation Rate",
                     "Relative Humidity",
                     "Sulfur Dioxide",
                     "Temperature",
