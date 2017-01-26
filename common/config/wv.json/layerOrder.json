@@ -310,8 +310,8 @@
 
         "MISR_Land_NDVI_Average_Monthly",
         "MISR_TOA_Albedo_Average_Red_Monthly",
-        "MISR_Cloud_Stereo_Height_Histogram_Bin_1",
-        "MISR_Cloud_Stereo_Height_Histogram_Bin_0",
+        "MISR_Cloud_Stereo_Height_Histogram_Bin_0.5km_Monthly",
+        "MISR_Cloud_Stereo_Height_Histogram_Bin_1.5-2.0km_Monthly",
         "MISR_Radiance_Average_Natural_Color_Monthly",
         "MISR_Aerosol_Optical_Depth_Avg_Green_Monthly",
         "MISR_Radiance_Average_Infrared_Color_Monthly",

@@ -11,7 +11,7 @@
                     "description": "misr/Aerosol",
                     "image": "",
                     "settings": [
-                        "MISR_Aerosol_Optical_Depth_Avg_Green_Monthly"
+                        "MISR_TOA_Albedo_Average_Red_Monthly"
                     ]
                 }
             }
