@@ -2,7 +2,7 @@
     "measurements": {
         "Aerosol Albedo": {
             "id": "aerosol-albedo",
-            "title":    "Aerosol Single Scattering Albedo",
+            "title":    "Aerosol Albedo",
             "subtitle": "Aura/OMI, Terra/MISR",
             "sources": {
                 "Aura/OMI": {

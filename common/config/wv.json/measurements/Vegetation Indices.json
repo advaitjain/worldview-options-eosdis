@@ -3,7 +3,7 @@
         "Vegetation Indices": {
             "id": "vegetation-indices",
             "title":    "Vegetation Indices",
-            "subtitle": "Terra / MODIS, Terra / MISR",
+            "subtitle": "Terra/MODIS, Terra/MISR",
             "sources": {
                 "Terra/MODIS": {
                     "id": "terra-modis",
