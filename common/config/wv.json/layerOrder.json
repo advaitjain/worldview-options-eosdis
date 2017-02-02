@@ -305,8 +305,11 @@
         "SSMI_DMSP_F17_Rain_Rate_Over_Oceans_Descending",
         "SSMI_DMSP_F17_Wind_Speed_Over_Oceans_Ascending",
         "SSMI_DMSP_F17_Wind_Speed_Over_Oceans_Descending",
-        
+
         "SSMIS_Sea_Ice_Concentration",
+
+        "RSS_Merged_Wind_Climatology_Monthly",
+        "RSS_Total_Precipitable_Water_Climatology_Monthly",
 
         "Aquarius_Soil_Moisture_Daily",
 
