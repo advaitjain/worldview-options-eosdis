@@ -310,6 +310,9 @@
 
         "RSS_Merged_Wind_Climatology_Monthly",
         "RSS_Total_Precipitable_Water_Climatology_Monthly",
+        "MEaSUREs_Ice_Velocity_Greenland",
+        "MEaSUREs_Ice_Velocity_Antarctica",
+        "MEaSUREs_Sea_Ice_Snow_Extent",
 
         "Aquarius_Soil_Moisture_Daily",
 

@@ -1,0 +1,13 @@
+{
+    "products": {
+        "NSIDC-0081": {
+            "name": "Sea Ice Concentrations from Nimbus-7 SMMR and DMSP SSM/I-SSMIS Passive Microwave Data",
+            "handler": "CollectionList",
+            "query": {
+                "collection": "true",
+                "shortName": "NSIDC-0081"
+            },
+            "noBulkDownload": "true"
+        }
+    }
+}

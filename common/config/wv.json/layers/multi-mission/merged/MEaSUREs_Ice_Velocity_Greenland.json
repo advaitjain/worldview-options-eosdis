@@ -1,0 +1,13 @@
+{
+    "layers": {
+        "MEaSUREs_Ice_Velocity_Greenland": {
+            "id":       "MEaSUREs_Ice_Velocity_Greenland",
+            "title":    "Ice Velocity (Greenland)",
+            "subtitle": "ALOS/PALSAR, RADARSAT-1/SAR, TSX/SAR",
+            "tags":     "",
+            "product": 	"NSIDC-0478",
+            "group":    "overlays",
+            "inactive": true
+        }
+    }
+}
