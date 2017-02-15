@@ -1,0 +1,13 @@
+{
+    "layers": {
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": {
+            "id":       "GLDAS_Surface_Total_Precipitation_Rate_Monthly",
+            "title":    "Total Precipitation Rate (Monthly, Surface, Noah LSM)",
+            "subtitle": "GLDAS",
+            "tags":     "global land data assimilation system, land surface model",
+            "group":    "overlays",
+            "product":  "GLDAS_NOAH10_M.2.0",
+            "inactive": true
+        }
+    }
+}
