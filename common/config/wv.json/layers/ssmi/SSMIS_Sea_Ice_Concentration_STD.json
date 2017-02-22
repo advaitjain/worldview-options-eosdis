@@ -6,7 +6,10 @@
             "subtitle": "NIMBUS-7/SSMR, DMSP 5D-2 F8/SSMI,  DMSP 5D-2 F11/SSMI, DMSP 5D-2 F13/SSMI, DMSP 5D-3 F17/SSMIS",
             "tags":     "",
             "group":    "overlays",
-            "product":  "NSIDC-0051"
+            "product":  "NSIDC-0051",
+            "startDate":"1978-10-26",
+            "endDate":  "2015-12-31",
+            "inactive": true
         }
     }
 }

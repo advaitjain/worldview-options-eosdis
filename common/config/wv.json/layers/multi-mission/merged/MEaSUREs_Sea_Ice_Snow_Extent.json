@@ -7,6 +7,8 @@
             "tags":     "",
             "product": 	"NSIDC-0534",
             "group":    "overlays",
+            "startDate":"1999-01-01",
+            "endDate":  "2012-12-31",
             "inactive": true
         }
     }

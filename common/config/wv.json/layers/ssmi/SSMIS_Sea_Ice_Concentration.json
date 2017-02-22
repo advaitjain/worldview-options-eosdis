@@ -6,7 +6,10 @@
             "subtitle": "DMSP 5D-3 F17/SSMIS, DMSP 5D-3 F18/SSMIS",
             "tags":     "",
             "group":    "overlays",
-            "product":  "NSIDC-0081"
+            "product":  "NSIDC-0081",
+            "startDate":"1978-10-26",
+            "endDate":  "2015-12-31",
+            "inactive": true
         }
     }
 }
