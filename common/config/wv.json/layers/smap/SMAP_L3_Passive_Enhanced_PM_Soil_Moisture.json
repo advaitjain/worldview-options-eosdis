@@ -1,0 +1,11 @@
+{
+    "layers": {
+        "SMAP_L3_Passive_Enhanced_PM_Soil_Moisture": {
+            "id":       "SMAP_L3_Passive_Enhanced_PM_Soil_Moisture",
+            "title":    "Soil Moisture (L3, Passive Enhanced, PM)",
+            "subtitle": "SMAP / Radiometer",
+            "group":    "overlays",
+            "product":  "SPL3SMP"
+        }
+    }
+}
